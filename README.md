@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=7709aa&height=120&text=송원철의%20Git입니다!&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=7709aa&height=120&text=Hi,%20Woncheol's%20Git%20:)&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
 <!--     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😃느리지만 꾸준히 성장하는 개발자입니다. </h2>  
