@@ -16,6 +16,12 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  
+          <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+          <img src="https://img.shields.io/badge/Naver%20Works-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+          <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flate&logo=springboot&logoColor=white">
+        
           </div>
     </div>
     <div style="text-align: left;">
