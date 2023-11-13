@@ -21,6 +21,10 @@
           <img src="https://img.shields.io/badge/Naver%20Works-03C75A?style=for-the-badge&logo=naver&logoColor=white">
           <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
           <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flate&logo=springboot&logoColor=white">
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+          
         
           </div>
     </div>
