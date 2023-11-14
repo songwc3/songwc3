@@ -32,8 +32,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
     </div>
-    <div style="text-align: left;">
-    <br><br>    
+    <br><br><br>
+    <div style="text-align: left;">    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
       <a href=mailto:songwc3@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songwc3@gmail.com"> </a>
@@ -41,7 +41,9 @@
     </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+    <br><br>    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😃저는 느리지만 꾸준히 성장하는 개발자입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 사회적으로 고립되거나 취약한 계층이 적어도 우리나라에서만큼은 없도록 소외 계층 지원 서비스를 개발하기위해 매일매일 열심히 공부하는 개발자가 되겠습니다! </div> 
+<!--     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 사회적으로 고립되거나 취약한 계층이 적어도 우리나라에서만큼은 없도록 소외 계층 지원 서비스를 개발하기위해 매일매일 열심히 공부하는 개발자가 되겠습니다! </div>  -->
+    <h3>사회적으로 고립되거나 취약한 계층이 적어도 우리나라에서만큼은 없도록 소외 계층 지원 서비스를 개발하기위해 매일매일 열심히 공부하는 개발자가 되겠습니다!</h3>
     </div>
