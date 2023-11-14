@@ -12,7 +12,7 @@
 <!--     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 사회적으로 고립되거나 취약한 계층이 적어도 우리나라에서만큼은 없도록 소외 계층 지원 서비스를 개발하기위해 매일매일 열심히 공부하는 개발자가 되겠습니다! </div>  -->
     <h3>사회적으로 고립되거나 취약한 계층이 적어도 우리나라에서만큼은 없도록 소외 계층 지원 서비스를 개발하기위해 매일매일 열심히 공부하는 개발자가 되겠습니다!</h3>
     </div>
-    <br><br>
+    <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <h3>Main</h3> <br>
